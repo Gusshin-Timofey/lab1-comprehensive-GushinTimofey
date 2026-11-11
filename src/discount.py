@@ -1,8 +1,4 @@
-import os
-
-
 def calculate_cart_total(cart_sum, tier, promos):
-    # Эта строка специально сделана длиннее 80 символов, чтобы вызвать ошибку линтера E501 при проверке в GitHub Actions
     price = cart_sum
     if cart_sum > 15000:
         price = cart_sum * 0.85
