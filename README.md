@@ -31,10 +31,11 @@
 * `develop` — основная интеграционная ветка разработки.
 * `feature/*` — изолированные ветки для разработки отдельных задач (`feature/infrastructure`, `feature/qa-gates`, `feature/review-plan`).
 
-**Ссылка на репозиторий:** `[https://github.com](https://github.com/Gusshin-Timofey/lab1-comprehensive-GushinTimofey)`
+**Ссылка на репозиторий:** `[[https://github.com](https://github.com/Gusshin-Timofey/lab1-comprehensive-GushinTimofey)](https://github.com/Gusshin-Timofey/lab1-comprehensive-GushinTimofey/pull/4)`
 
 ### 3.2. Контроль доступа
-Настроена защита ветки `develop` (обязательное создание Pull Request перед слиянием) и назначен владелец кода в файле `.github/CODEOWNERS`:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/09cf96d7-7f7e-4f5a-a1bd-8b982030164a" />
+
 
 ```text
 * Gusshin-Timofey
